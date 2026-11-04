@@ -1,3 +1,5 @@
+![BrainBot banner](assets/brainbot-banner.png)
+
 # BrainBot
 
 **ProcessOverProfit — Independent Linux Software Development**
