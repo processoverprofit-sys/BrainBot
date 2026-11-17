@@ -10,7 +10,7 @@ BrainBot is a privately developed, local-first Ubuntu desktop application and us
 
 It is a separate project within the [ProcessOverProfit engineering portfolio](https://github.com/processoverprofit-sys). This repository documents its purpose, design objectives and development history; it does not distribute the underlying application.
 
-**Explore:** [Overview](#project-overview) · [Technical documentation](#technical-documentation) · [Development status](#development-status) · [Community](#join-the-processoverprofit-community) · [Public scope](#public-repository-scope)
+**Explore:** [Overview](#project-overview) · [Technical documentation](#technical-documentation) · [Development status](#development-status) · [Community](#join-the-processoverprofit-community) · [FAQ](docs/FAQ.md) · [Public scope](#public-repository-scope)
 
 ---
 
@@ -45,6 +45,8 @@ These are design objectives, not assertions that every feature or control has be
 | [Testing and illustrative cases](docs/TESTING.md) | Proposed evaluation methodology and fictional, unexecuted examples |
 | [Community and feedback](docs/COMMUNITY.md) | Constructive review questions and how to participate |
 
+For publication standards, see the [publication checklist](docs/PUBLICATION_CHECKLIST.md), [blank evidence report template](docs/EVIDENCE_REPORT_TEMPLATE.md) and [Stage 7 review record](docs/STAGE7_SECURITY_QUALITY_REVIEW.md). No actual test results are supplied by these templates.
+
 ## Development status
 
 The BrainBot PC 3.5.0–3.5.3 development line has been recorded as completed and frozen in Engineering HQ. The earlier Android direction has been discontinued.
@@ -75,7 +77,7 @@ This is a **documentation-only repository**. It does not distribute private sour
 
 ## Feedback and security
 
-Non-sensitive documentation corrections may be proposed through public pull requests at the maintainer's discretion, subject to [CONTRIBUTING.md](CONTRIBUTING.md). Public Issues and GitHub Discussions are currently disabled.
+Non-sensitive documentation corrections may be proposed through public pull requests at the maintainer's discretion, subject to [CONTRIBUTING.md](CONTRIBUTING.md). Read the [FAQ](docs/FAQ.md) and [code of conduct](CODE_OF_CONDUCT.md). Public Issues and GitHub Discussions are currently disabled.
 
 Use the confidential reporting route in [SECURITY.md](SECURITY.md) for security concerns about this public repository. Do not post vulnerabilities, private information or unpublished implementation details publicly. No permission to access or test private systems is granted.
 

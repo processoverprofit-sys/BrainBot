@@ -31,4 +31,6 @@ If non-sensitive evidence is published in future, it should distinguish the test
 
 Are the expected outcomes sufficiently clear? What additional fictional usability, failure or boundary cases would make the public design objectives easier to evaluate?
 
+For future separately reviewed, disclosure-approved results, use the [blank evidence report template](EVIDENCE_REPORT_TEMPLATE.md). It contains no actual results and does not authorise testing or application access.
+
 [Return to BrainBot](../README.md)
