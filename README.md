@@ -35,6 +35,8 @@ It is a separate project within the [ProcessOverProfit engineering portfolio](ht
 
 These are design objectives, not assertions that every feature or control has been implemented, tested or independently verified.
 
+**Start here:** [FAQ](docs/FAQ.md) · [Publication checklist](docs/PUBLICATION_CHECKLIST.md) · [Evidence template](docs/EVIDENCE_REPORT_TEMPLATE.md) · [Community conduct](CODE_OF_CONDUCT.md) · [Engineering HQ](https://github.com/processoverprofit-sys/Processoverprofit-sys)
+
 ## Technical documentation
 
 | Document | What it explains |
