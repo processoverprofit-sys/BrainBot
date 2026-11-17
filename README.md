@@ -67,7 +67,7 @@ Constructive feedback on local-first design, desktop usability, reliability, com
 
 If you found the project through Reddit or another community discussion, you may request an invitation there where the community rules permit. Discord access is managed by the maintainer. No public invitation URL is listed, and joining the community does not grant private source or operational access.
 
-For the wider portfolio, see the [Engineering HQ community guide](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/COMMUNITY.md) and [public roadmap](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/ROADMAP.md).
+For the wider portfolio, see the [Engineering HQ invitation-request guidance](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/COMMUNITY.md#requesting-discord-access) and [public roadmap](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/ROADMAP.md).
 
 ## Public repository scope
 
