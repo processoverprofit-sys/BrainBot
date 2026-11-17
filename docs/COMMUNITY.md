@@ -20,7 +20,7 @@ The wider ProcessOverProfit Discord community provides a place for developers, L
 
 If you encountered BrainBot or T-Bot through Reddit or another community discussion, you can express interest in an invitation there where the rules permit. Invitations and developer access are managed by the maintainer. No public invite is listed.
 
-Visit the [Engineering HQ community guide](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/COMMUNITY.md) for the shared participation boundaries.
+Visit the [Engineering HQ community guide](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/COMMUNITY.md) for shared participation boundaries and the [current invitation-request guidance](https://github.com/processoverprofit-sys/Processoverprofit-sys/blob/main/docs/COMMUNITY.md#requesting-discord-access).
 
 ## Contribution and security boundaries
 
